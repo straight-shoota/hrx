@@ -1,0 +1,10 @@
+name: hrx
+version: 0.1.0
+description: Parser for the [Human Readable Archive (HRX)](https://github.com/google/hrx) format
+
+authors:
+  - Johannes Müller <straightshoota@gmail.com>
+
+crystal: 0.34.0
+
+license: Apache-2.0
